@@ -9,7 +9,7 @@ Download slim models and scripts:
 ```bash
 bash get_slim_repo.sh
 ```
-View notebook with jupyter:
+View [notebook](https://github.com/JustinShenk/fine-tuning-ncs/blob/master/flower_inference_with_NCS.ipynb) with jupyter:
 
 ```bash
 jupyter notebook
