@@ -1,5 +1,5 @@
 # fine-tuning-ncs
-Testing repository for fine tuning TensorFlow models for NCS (Development stage)
+Testing repository for fine tuning TensorFlow models for Intel's Neural Compute Stick (Development stage)
 
 ## Getting started
 Clone repo
