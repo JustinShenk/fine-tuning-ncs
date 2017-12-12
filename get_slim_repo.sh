@@ -5,4 +5,5 @@ wget https://github.com/tensorflow/models/archive/master.zip -O models.zip &&
 unzip models.zip &&
 mv models-master models &&
 mv models/research/slim . &&
-rm models.zip
+rm -rf models &&
+rm -f models.zip
